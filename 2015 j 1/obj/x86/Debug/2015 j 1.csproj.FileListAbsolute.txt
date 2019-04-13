@@ -1,0 +1,17 @@
+C:\Users\rad\Desktop\Rad Rares\2015 j 1\2015 j 1\obj\x86\Debug\_2015_j_1.Login.resources
+C:\Users\rad\Desktop\Rad Rares\2015 j 1\2015 j 1\obj\x86\Debug\_2015_j_1.Properties.Resources.resources
+C:\Users\rad\Desktop\Rad Rares\2015 j 1\2015 j 1\obj\x86\Debug\2015 j 1.csproj.GenerateResource.Cache
+C:\Users\rad\Desktop\Rad Rares\2015 j 1\2015 j 1\bin\Debug\2015 j 1.exe
+C:\Users\rad\Desktop\Rad Rares\2015 j 1\2015 j 1\bin\Debug\2015 j 1.pdb
+C:\Users\rad\Desktop\Rad Rares\2015 j 1\2015 j 1\obj\x86\Debug\2015 j 1.exe
+C:\Users\rad\Desktop\Rad Rares\2015 j 1\2015 j 1\obj\x86\Debug\2015 j 1.pdb
+C:\Users\rad\Desktop\Rad Rares\2015 j 1\2015 j 1\obj\x86\Debug\_2015_j_1.Admin.resources
+C:\Users\rad\Desktop\Rad Rares\2015 j 1\2015 j 1\obj\x86\Debug\_2015_j_1.Turist.resources
+C:\Users\rad\Desktop\Rad Rares\2015 j 1\2015 j 1\obj\x86\Debug\_2015_j_1.MDIParent1.resources
+C:\Users\rad\Desktop\Rad Rares\2015 j 1\2015 j 1\obj\x86\Debug\_2015_j_1.Lista.resources
+C:\Users\rad\Desktop\Rad Rares\2015 j 1\2015 j 1\bin\Debug\Turism.mdf
+C:\Users\rad\Desktop\Rad Rares\2015 j 1\2015 j 1\bin\Debug\Turism_log.ldf
+C:\Users\rad\Desktop\Rad Rares\2015 j 1\2015 j 1\bin\Debug\2015 j 1.exe.config
+C:\Users\rad\Desktop\Rad Rares\2015 j 1\2015 j 1\obj\x86\Debug\_2015_j_1.Preview.resources
+C:\Users\rad\Desktop\Rad Rares\2015 j 1\2015 j 1\obj\x86\Debug\2015 j 1.csprojResolveAssemblyReference.cache
+C:\Users\rad\Desktop\Rad Rares\2015 j 1\2015 j 1\obj\x86\Debug\_2015_j_1.Teapa.resources
